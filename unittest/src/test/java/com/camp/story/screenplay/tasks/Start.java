@@ -1,4 +1,4 @@
-package com.ucloudlink.story.screenplay.tasks;
+package com.camp.story.screenplay.tasks;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.actions.Open;
 
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
-import com.ucloudlink.story.pages.HomePage;
+import com.camp.story.pages.HomePage;
 
 public class Start implements Task
 {

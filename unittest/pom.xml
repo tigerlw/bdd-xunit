@@ -120,7 +120,7 @@
                         <exclude>**/*WithFailures.java</exclude>
                     </excludes-->
                     <includes>
-                    	<include>com/ucloudlink/story/*.java</include>
+                    	<include>com/camp/story/*.java</include>
                     </includes>
                     
                     <argLine>-Xmx512m</argLine>

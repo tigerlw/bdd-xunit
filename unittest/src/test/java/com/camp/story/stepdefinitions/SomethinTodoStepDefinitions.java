@@ -1,13 +1,13 @@
-package com.ucloudlink.story.stepdefinitions;
+package com.camp.story.stepdefinitions;
 
 import org.jbehave.core.annotations.Given;
 import org.jbehave.core.annotations.Then;
 import org.jbehave.core.annotations.When;
 import org.openqa.selenium.WebDriver;
 
-import com.ucloudlink.story.BuyerSteps;
-import com.ucloudlink.story.screenplay.tasks.ResearchItem;
-import com.ucloudlink.story.screenplay.tasks.Start;
+import com.camp.story.BuyerSteps;
+import com.camp.story.screenplay.tasks.ResearchItem;
+import com.camp.story.screenplay.tasks.Start;
 
 import cucumber.api.java.Before;
 import net.serenitybdd.screenplay.Actor;

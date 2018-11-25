@@ -1,9 +1,9 @@
-package com.ucloudlink.story;
+package com.camp.story;
 
 import com.google.common.base.Optional;
-import com.ucloudlink.story.pages.HomePage;
-import com.ucloudlink.story.pages.ItemDetailsPage;
-import com.ucloudlink.story.pages.SearchResultsPage;
+import com.camp.story.pages.HomePage;
+import com.camp.story.pages.ItemDetailsPage;
+import com.camp.story.pages.SearchResultsPage;
 
 import net.thucydides.core.annotations.Step;
 import org.hamcrest.Matcher;

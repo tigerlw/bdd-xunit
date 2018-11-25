@@ -1,4 +1,4 @@
-package com.ucloudlink.unitest;
+package com.camp.unitest;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.MutableCapabilities;

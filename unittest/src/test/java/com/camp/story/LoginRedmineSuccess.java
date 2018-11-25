@@ -1,4 +1,4 @@
-package com.ucloudlink.story;
+package com.camp.story;
 
 import net.serenitybdd.jbehave.SerenityStories;
 

@@ -1,4 +1,4 @@
-package com.ucloudlink.story.pages;
+package com.camp.story.pages;
 
 import net.thucydides.core.pages.PageObject;
 import org.openqa.selenium.By;

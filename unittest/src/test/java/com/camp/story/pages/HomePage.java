@@ -1,4 +1,4 @@
-package com.ucloudlink.story.pages;
+package com.camp.story.pages;
 
 import com.google.common.base.Function;
 import com.google.common.collect.Lists;
